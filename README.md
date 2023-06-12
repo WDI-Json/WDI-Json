@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wouter Dijks, iOS-developer @ Arcady
+- 👋 Hi, I’m Wouter Dijks, Software Engineer
 - 📫 How to reach me at Twitter: @AdvocadoJager 
 
 <!---
